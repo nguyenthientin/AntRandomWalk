@@ -1,0 +1,1 @@
+This notebook shows my answer to [the puzzle](https://www.optiver.com/working-at-optiver/career-opportunities/5841549002/) given by Optiver.
